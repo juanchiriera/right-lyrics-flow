@@ -1,0 +1,38 @@
+.padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.center {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.main-color {
+    color: #5E548E;
+}
+
+.secondary-color {
+    color: #5E548E;
+}
+
+.link-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+  
+.link-button:hover,
+.link-button:focus {
+  text-decoration: underline;
+ }
+
+ .btn-primary {
+     color: #FFFFFF !important;
+     background-color: #5E548E !important;
+     border-color: #5E548E !important;
+ }
